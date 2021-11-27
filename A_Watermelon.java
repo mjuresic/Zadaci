@@ -6,6 +6,7 @@ public class A_Watermelon
         int w;
         Scanner input = new Scanner(System.in);
         w=input.nextInt();
+        input.close();
         if(w>2)
         {
         if((w%2)==0)
