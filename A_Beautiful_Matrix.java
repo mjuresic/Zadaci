@@ -19,7 +19,7 @@ public class A_Beautiful_Matrix
 				i = 0;
 			}
 		}
-
+		sc.close();
 		System.out.println(Math.abs(i-3)+Math.abs(j-3));
 	}	
 }

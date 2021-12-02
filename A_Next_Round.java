@@ -21,7 +21,7 @@ public class A_Next_Round {
 			if (data[i] >= minScore && data[i] > 0)
 				cnt++;
 		}
-
+		sc.close();
 		System.out.println(cnt);
 	}
 }

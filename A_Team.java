@@ -19,6 +19,7 @@ public class A_Team
                 if(b[i]>=2)
                     ctr++;
         }
+        ip.close();
         System.out.println(ctr);
     }
 }

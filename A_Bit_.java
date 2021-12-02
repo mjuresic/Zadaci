@@ -21,6 +21,7 @@ public class A_Bit_
             else
                 x--;
         }
+        ip.close();
         System.out.println(x);
     }
 }
