@@ -1,6 +1,4 @@
-import java.util.*;
-import java.lang.*;
-import java.io.*;
+import java.util.Scanner;
 
 public class A_Beautiful_Matrix
 {
