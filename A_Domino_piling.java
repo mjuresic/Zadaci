@@ -5,6 +5,7 @@ public class A_Domino_piling {
         Scanner sc=new Scanner(System.in);
         int n=sc.nextInt();
         int m=sc.nextInt();
+        sc.close();
         int k=n*m/2;
         System.out.println(k);       
     }
