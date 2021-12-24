@@ -4,6 +4,9 @@ import java.io.*;
 import java.util.Arrays;
 import java.util.Collections;
 
+////////////////////////////////
+        // NOT WORKING  //
+////////////////////////////////
 public class B_And_It_s_Non_Zero
 {
 	public static void main (String[] args) throws java.lang.Exception
