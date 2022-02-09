@@ -2,9 +2,6 @@ import java.util.Scanner;
 
 public class A_Buy_a_Shovel {
  
-    /**
-     * @param args the command line arguments
-     */
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         int k = scan.nextInt();
